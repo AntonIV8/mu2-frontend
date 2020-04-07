@@ -1,0 +1,30 @@
+﻿{
+  "name": "IISmu2K1",
+  "modelName": "i-i-s-mu2-k1",
+  "className": "K1",
+  "nameSpace": "IIS.mu2",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "K1E",
+      "modelName": "i-i-s-mu2-k1",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "K1L",
+      "modelName": "i-i-s-mu2-k1",
+      "attrs": [],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

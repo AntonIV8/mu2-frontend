@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "K1",
+  "name": "IISmu2K1E",
+  "className": "K1E",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mu2-k1",
+      "modelProjection": "K1E"
+    }
+  ]
+}

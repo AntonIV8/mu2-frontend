@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-mu2-k1-e",
+  "editForm": "i-i-s-mu2-k1-e",
+  "external": false,
+  "caption": "K1",
+  "name": "IISmu2K1L",
+  "className": "K1L",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-mu2-k1",
+      "modelProjection": "K1L"
+    }
+  ]
+}
